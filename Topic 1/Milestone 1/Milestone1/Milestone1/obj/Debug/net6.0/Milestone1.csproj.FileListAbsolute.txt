@@ -1,0 +1,15 @@
+C:\Users\rmcoo\source\repos\Milestone1\Milestone1\bin\Debug\net6.0\Milestone1.exe
+C:\Users\rmcoo\source\repos\Milestone1\Milestone1\bin\Debug\net6.0\Milestone1.deps.json
+C:\Users\rmcoo\source\repos\Milestone1\Milestone1\bin\Debug\net6.0\Milestone1.runtimeconfig.json
+C:\Users\rmcoo\source\repos\Milestone1\Milestone1\bin\Debug\net6.0\Milestone1.dll
+C:\Users\rmcoo\source\repos\Milestone1\Milestone1\bin\Debug\net6.0\Milestone1.pdb
+C:\Users\rmcoo\source\repos\Milestone1\Milestone1\obj\Debug\net6.0\Milestone1.csproj.AssemblyReference.cache
+C:\Users\rmcoo\source\repos\Milestone1\Milestone1\obj\Debug\net6.0\Milestone1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmcoo\source\repos\Milestone1\Milestone1\obj\Debug\net6.0\Milestone1.AssemblyInfoInputs.cache
+C:\Users\rmcoo\source\repos\Milestone1\Milestone1\obj\Debug\net6.0\Milestone1.AssemblyInfo.cs
+C:\Users\rmcoo\source\repos\Milestone1\Milestone1\obj\Debug\net6.0\Milestone1.csproj.CoreCompileInputs.cache
+C:\Users\rmcoo\source\repos\Milestone1\Milestone1\obj\Debug\net6.0\Milestone1.dll
+C:\Users\rmcoo\source\repos\Milestone1\Milestone1\obj\Debug\net6.0\refint\Milestone1.dll
+C:\Users\rmcoo\source\repos\Milestone1\Milestone1\obj\Debug\net6.0\Milestone1.pdb
+C:\Users\rmcoo\source\repos\Milestone1\Milestone1\obj\Debug\net6.0\Milestone1.genruntimeconfig.cache
+C:\Users\rmcoo\source\repos\Milestone1\Milestone1\obj\Debug\net6.0\ref\Milestone1.dll
