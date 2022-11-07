@@ -3,7 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//
+//Ryan Coon
+//CST-250
+//November 6, 2022
 namespace Milestone1
 {
     class MainClass
@@ -38,7 +41,7 @@ namespace Milestone1
                 Console.Out.Write(string.Format(" {0} |", idx));
             }
             //new line for to actual grid
-            printLineSeparator(cols);
+            printGridSeparator(cols);
             for (int row = 0; row < rows; row++)
             {
                 for (int col = 0; col < cols; col++)
@@ -58,7 +61,7 @@ namespace Milestone1
                     if (col == cols - 1) Console.Out.Write(string.Format("| {0} ", row));
                 }
                 //go to the next line
-                printLineSeparator(cols);
+                printGridSeparator(cols);
             }
         }
         public static int getUserInput()
@@ -75,7 +78,7 @@ namespace Milestone1
             }
             return choice;
         }
-        private static void printLineSeparator(int nbr)
+        private static void printGridSeparator(int nbr)
         {
             Console.Out.Write("\n+");
             for (int idx = 0; idx < nbr; idx++)
